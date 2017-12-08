@@ -1,12 +1,8 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\Attackers\Spawner.cs">
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\Attackers\Attacker.cs">
     <Files>
-      <File FileName="Assets\_Scripts\Button.cs" Line="20" Column="3" />
-      <File FileName="Assets\_Scripts\GameTimer.cs" Line="22" Column="1" />
-      <File FileName="Assets\levelComplete.cs" Line="21" Column="3" />
-      <File FileName="Assets\_Scripts\Attackers\Spawner.cs" Line="25" Column="56" />
-      <File FileName="Assets\_Scripts\DefenderSpawner.cs" Line="15" Column="1" />
+      <File FileName="Assets\_Scripts\Attackers\Attacker.cs" Line="5" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
