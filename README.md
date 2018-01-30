@@ -1,6 +1,6 @@
 Glitch Garden
 
-Plants vs Zombies inspired game. Targeted for android.
+Project developed for a Unity 3D online course. Targeted for android.
 
-Download the rar file to play!
+Download the zip file to play!
 
