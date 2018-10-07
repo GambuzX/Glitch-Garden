@@ -5,9 +5,10 @@ Game developed while following the "Complete C# Unity Developer" online course. 
 
 ### Description
 Game similar to Plants vs Zombies, where you must place 'defenders' :sunflower: to fight incoming enemies :japanese_ogre:
+
 The objective is to survive the longest you can.
 
-The game is targeted for Android and works well in it.
+The game is targeted for Android :iphone:
 
 ### Technologies
 * C#
